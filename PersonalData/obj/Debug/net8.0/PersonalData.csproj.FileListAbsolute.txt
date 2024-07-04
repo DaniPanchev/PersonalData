@@ -1,0 +1,14 @@
+D:\PersonalData\bin\Debug\net8.0\PersonalData.exe
+D:\PersonalData\bin\Debug\net8.0\PersonalData.deps.json
+D:\PersonalData\bin\Debug\net8.0\PersonalData.runtimeconfig.json
+D:\PersonalData\bin\Debug\net8.0\PersonalData.dll
+D:\PersonalData\bin\Debug\net8.0\PersonalData.pdb
+D:\PersonalData\obj\Debug\net8.0\PersonalData.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalData\obj\Debug\net8.0\PersonalData.AssemblyInfoInputs.cache
+D:\PersonalData\obj\Debug\net8.0\PersonalData.AssemblyInfo.cs
+D:\PersonalData\obj\Debug\net8.0\PersonalData.csproj.CoreCompileInputs.cache
+D:\PersonalData\obj\Debug\net8.0\PersonalData.dll
+D:\PersonalData\obj\Debug\net8.0\refint\PersonalData.dll
+D:\PersonalData\obj\Debug\net8.0\PersonalData.pdb
+D:\PersonalData\obj\Debug\net8.0\PersonalData.genruntimeconfig.cache
+D:\PersonalData\obj\Debug\net8.0\ref\PersonalData.dll
